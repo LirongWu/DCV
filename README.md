@@ -77,6 +77,20 @@ where the *dataset* is one of the six datasets (MNIST, HAR, USPS, Pendigits, Reu
 
 
 
+If you find this file useful in your research, please consider citing:
+
+```
+@article{wu2022deep,
+  title={Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis},
+  author={Wu, Lirong and Yuan, Lifan and Zhao, Guojiang and Lin, Haitao and Li, Stan Z},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+
+
 ## License
 
 Deep Clustering and Visualization (DCV) is released under the MIT license.
